@@ -10,11 +10,35 @@
 
 <p align="center">
   Research and development around real-world robot learning, bimanual manipulation,
-  teleoperation, ACT/ACT-CVAE, continual learning, perception, edge deployment and
+  teleoperation, ACT/ACT, continual learning, perception, edge deployment and
   integration with physical robotic platforms.
 </p>
 
 ---
+
+
+## Project vision
+
+**ACT-Lab** is conceived as a practical research and development environment for
+**Physical AI and Embodied AI**, focused on taking robot-learning methods from
+experimentation to real robotic platforms. The project brings together learning
+from demonstration, ACT/ACT policies, bimanual manipulation, perception,
+continual learning, residual reinforcement learning, ROS 2 interoperability, and
+edge/NPU deployment within a common workflow.
+
+The main idea is to reduce the distance between research prototypes and
+real-world robotic systems by providing a modular environment where researchers,
+students, and makers can capture demonstrations, train and evaluate policies,
+integrate new robots and sensors, and progressively deploy learned models on
+physical hardware.
+
+ACT-Lab is currently under active development. The first public release is
+planned for approximately **one month from now**, with the goal of providing an
+initial usable version of the core workflow, documentation, example pipelines,
+and selected robot-integration components.
+
+> **Estimated first public release: November 2026**
+
 
 ## About
 
@@ -40,7 +64,7 @@ timeline
          : Human demonstrations and robot datasets
     2026 H1 : Bimanual robot integration
             : Teleoperation and perception
-    Jul 2026 : ACT-CVAE Online
+    Jul 2026 : ACT Online
              : Continual / incremental learning
     Aug 2026 : Residual RL with SAC
              : Edge model export and deployment work
@@ -101,14 +125,11 @@ Project updates, demonstrations and featured posts:
 
 ## Current research directions
 
-- ACT / ACT-CVAE for robot manipulation
+- ACT / ACT for robot manipulation
 - Bimanual robotic learning
 - Learning from demonstration
-- Continual and incremental learning
-- Residual reinforcement learning
 - Visual perception and multimodal sensing
 - ROS 2 and robot interoperability
-- Edge AI and NPU deployment
 - Physical AI and real-world evaluation
 
 ---
