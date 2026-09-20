@@ -84,31 +84,43 @@ sequence provided for this repository.
 
 ### 1. ACT-Lab video
 
-[![ACT-Lab video 1](https://img.youtube.com/vi/_0quxTr4MLg/hqdefault.jpg)](https://www.youtube.com/watch?v=_0quxTr4MLg&t=15s)
+[![ACT-Lab video 1](https://img.youtube.com/vi/6PQ8iz31Uvo/hqdefault.jpg)](https://www.youtube.com/watch?v=6PQ8iz31Uvo)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=_0quxTr4MLg&t=15s)
+[Watch on YouTube](https://www.youtube.com/watch?v=6PQ8iz31Uvo)
 
 ### 2. ACT-Lab video
 
-[![ACT-Lab video 2](https://img.youtube.com/vi/uK-TQESARvs/hqdefault.jpg)](https://www.youtube.com/watch?v=uK-TQESARvs)
+[![ACT-Lab video 2](https://img.youtube.com/vi/Gan7WdjSDoM/hqdefault.jpg)](https://www.youtube.com/watch?v=Gan7WdjSDoM)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=uK-TQESARvs)
+[Watch on YouTube](https://www.youtube.com/watch?v=Gan7WdjSDoM)
 
 ### 3. ACT-Lab video
 
-[![ACT-Lab video 3](https://img.youtube.com/vi/-VzGDfOPEuo/hqdefault.jpg)](https://www.youtube.com/watch?v=-VzGDfOPEuo)
+[![ACT-Lab video 3](https://img.youtube.com/vi/_0quxTr4MLg/hqdefault.jpg)](https://www.youtube.com/watch?v=_0quxTr4MLg&t=15s)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=-VzGDfOPEuo)
+[Watch on YouTube](https://www.youtube.com/watch?v=_0quxTr4MLg&t=15s)
 
 ### 4. ACT-Lab video
 
-[![ACT-Lab video 4](https://img.youtube.com/vi/Kb4PaaX3YAw/hqdefault.jpg)](https://www.youtube.com/watch?v=Kb4PaaX3YAw&t=20s)
+[![ACT-Lab video 4](https://img.youtube.com/vi/uK-TQESARvs/hqdefault.jpg)](https://www.youtube.com/watch?v=uK-TQESARvs)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Kb4PaaX3YAw&t=20s)
+[Watch on YouTube](https://www.youtube.com/watch?v=uK-TQESARvs)
 
 ### 5. ACT-Lab video
 
-[![ACT-Lab video 5](https://img.youtube.com/vi/KcHD1WBckBg/hqdefault.jpg)](https://www.youtube.com/watch?v=KcHD1WBckBg)
+[![ACT-Lab video 5](https://img.youtube.com/vi/-VzGDfOPEuo/hqdefault.jpg)](https://www.youtube.com/watch?v=-VzGDfOPEuo)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=-VzGDfOPEuo)
+
+### 6. ACT-Lab video
+
+[![ACT-Lab video 6](https://img.youtube.com/vi/Kb4PaaX3YAw/hqdefault.jpg)](https://www.youtube.com/watch?v=Kb4PaaX3YAw&t=20s)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=Kb4PaaX3YAw&t=20s)
+
+### 7. ACT-Lab video
+
+[![ACT-Lab video 7](https://img.youtube.com/vi/KcHD1WBckBg/hqdefault.jpg)](https://www.youtube.com/watch?v=KcHD1WBckBg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KcHD1WBckBg)
 
